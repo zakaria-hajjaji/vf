@@ -2,9 +2,9 @@
 
     session_start();
 
-    $selectBar = filter_input(INPUT_POST, "selectBar", FILTER_DEFAULT);
+    $selectBar = filter_input(INPUT_POST, "selectBar", FILTER_VALIDATE_INT);
 
-    $selectBar1 = filter_input(INPUT_POST, "selectBar1", FILTER_DEFAULT);
+    $selectBar1 = filter_input(INPUT_POST, "selectBar1", FILTER_VALIDATE_INT);
 
     $id = $_POST['id'];
 
@@ -19,7 +19,7 @@
 
     $password = "";
 
-    $dbname = "jou";
+    $dbname = "test";
 
 
 

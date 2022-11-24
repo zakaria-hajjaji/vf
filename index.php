@@ -50,19 +50,25 @@ if (!isset($_SESSION["user"])) {
                 <p>NOV 20, 2022, 17.00 AM</p>
                 <label>Team1</label>
                 <select class="selectBar" name="selectBar" id="selectBar">
-                    <option value="default">Select</option>
-                    <option value="Win">Win</option>
-                    <option value="Draw">Draw</option>
-                    <option value="Lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
                 <input type="hidden" name="id" value="1">
     
                 <label>Team2</label>
                 <select class="selectBar" name="selectBar1" id="selectBar1">
-                    <option value="default">Select</option>
-                    <option value="Win">Win</option>
-                    <option value="Draw">Draw</option>
-                    <option value="Lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
                 <button class="favorite_styled" style="color: black;">Save</button>
                 </form>
@@ -80,19 +86,25 @@ if (!isset($_SESSION["user"])) {
                 <p>NOV 21, 2022, 14:00 </p>
                 <label>Team1</label>
                 <select class="selectBar" name="selectBar" id="selectBar">
-                    <option value="default">Select</option>
-                    <option value="Win">Win</option>
-                    <option value="Draw">Draw</option>
-                    <option value="Lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
-                <input type="hidden" name="id" value="1">
+                <input type="hidden" name="id" value="2">
     
                 <label>Team2</label>
                 <select class="selectBar" name="selectBar1" id="selectBar1">
-                    <option value="default">Select</option>
-                    <option value="Win">Win</option>
-                    <option value="Draw">Draw</option>
-                    <option value="Lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
                 <button class="favorite_styled" style="color: black;">Save</button>
                 </form>
@@ -108,19 +120,25 @@ if (!isset($_SESSION["user"])) {
                 <p>NOV 21, 2022, 17:00 </p>
                 <label>Team1</label>
                 <select class="selectBar" name="selectBar" id="selectBar">
-                    <option value="default">Select</option>
-                    <option value="Win">Win</option>
-                    <option value="Draw">Draw</option>
-                    <option value="Lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
-                <input type="hidden" name="id" value="1">
+                <input type="hidden" name="id" value="3">
     
                 <label>Team2</label>
                 <select class="selectBar" name="selectBar1" id="selectBar1">
-                    <option value="default">Select</option>
-                    <option value="Win">Win</option>
-                    <option value="Draw">Draw</option>
-                    <option value="Lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
                 <button class="favorite_styled" style="color: black;">Save</button>
                 </form>
@@ -136,16 +154,24 @@ if (!isset($_SESSION["user"])) {
                 <p>NOV 21, 2022, 20:00 </p>
                 <label>Team1</label>
                 <select class="selectBar" name="selectBar" id="selectBar">
-                    <option value="default">Select</option>
-                    <option value="win">Win</option>
-                    <option value="lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
-                
+                <input type="hidden" name="id" value="4">
                 <label>Team2</label>
                 <select class="selectBar" name="selectBar1" id="selectBar1">
-                    <option value="default">Select</option>
-                    <option value="win">Win</option>
-                    <option value="lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
                 <button class="favorite_styled" style="color: black;">Save</button>
                 </form>
@@ -163,16 +189,24 @@ if (!isset($_SESSION["user"])) {
                 <p>NOV 22, 2022, 11:00 </p>
                 <label>Team1</label>
                 <select class="selectBar" name="selectBar" id="selectBar">
-                    <option value="default">Select</option>
-                    <option value="win">Win</option>
-                    <option value="lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
-                
+                <input type="hidden" name="id" value="5">
                 <label>Team2</label>
                 <select class="selectBar" name="selectBar1" id="selectBar1">
-                    <option value="default">Select</option>
-                    <option value="win">Win</option>
-                    <option value="lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
                 <button class="favorite_styled" style="color: black;">Save</button>
                 </form>
@@ -188,16 +222,24 @@ if (!isset($_SESSION["user"])) {
                 <p>NOV 22, 2022, 14:00 </p>
                 <label>Team1</label>
                 <select class="selectBar" name="selectBar" id="selectBar">
-                    <option value="default">Select</option>
-                    <option value="win">Win</option>
-                    <option value="lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
-                
+                <input type="hidden" name="id" value="6">
                 <label>Team2</label>
                 <select class="selectBar" name="selectBar1" id="selectBar1">
-                    <option value="default">Select</option>
-                    <option value="win">Win</option>
-                    <option value="lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
                 <button class="favorite_styled" style="color: black;">Save</button>
                 </form>
@@ -213,16 +255,24 @@ if (!isset($_SESSION["user"])) {
                 <p>NOV 22, 2022, 17:00 </p>
                 <label>Team1</label>
                 <select class="selectBar" name="selectBar" id="selectBar">
-                    <option value="default">Select</option>
-                    <option value="win">Win</option>
-                    <option value="lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
-                
+                <input type="hidden" name="id" value="7">
                 <label>Team2</label>
                 <select class="selectBar" name="selectBar1" id="selectBar1">
-                    <option value="default">Select</option>
-                    <option value="win">Win</option>
-                    <option value="lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
                 <button class="favorite_styled" style="color: black;">Save</button>
                 </form>
@@ -238,16 +288,24 @@ if (!isset($_SESSION["user"])) {
                 <p>NOV 22, 2022, 20:00 </p>
                 <label>Team1</label>
                 <select class="selectBar" name="selectBar" id="selectBar">
-                    <option value="default">Select</option>
-                    <option value="win">Win</option>
-                    <option value="lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
-                
+                <input type="hidden" name="id" value="8">
                 <label>Team2</label>
                 <select class="selectBar" name="selectBar1" id="selectBar1">
-                    <option value="default">Select</option>
-                    <option value="win">Win</option>
-                    <option value="lose">Lose</option>
+                <option value=9999>Select</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
                 </select>
                 <button class="favorite_styled" style="color: black;">Save</button>
                 </form>
